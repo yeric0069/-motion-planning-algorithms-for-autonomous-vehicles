@@ -6,3 +6,4 @@ parkinglot.m (download it from Moodle). The vehicles in the parking lot are assu
 the dimension of the vehicle is shown in Fig. 2. The initial position of the vehicle is (0.2,3.0) and 
 the goal position is (13.2,16.0). Note that the autonomous vehicle’s position cannot be negative 
 (i.e. it is bounded by x ≥ 0 and y ≥ 0) due to the parking lot boundary.
+<img width="1668" height="1024" alt="屏幕截图 2026-07-21 133045" src="https://github.com/user-attachments/assets/c287726f-c18e-4738-bad0-927067636f5b" />
